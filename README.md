@@ -99,5 +99,6 @@ Also: GDSC (Google Developer Student Clubs) member at JIT, NSS volunteer, freela
 
 - **Email:** aishwaryathikkam@gmail.com
 - **GitHub:** [github.com/aishureddy09](https://github.com/aishureddy09)
+- **LinkedIn:** [linkedin.com/in/thikkam-aishwarya](https://www.linkedin.com/in/thikkam-aishwarya/)
 
 *Research prototypes on this profile are educational and research work. Nothing here is a diagnostic tool or a clinically validated system.*
